@@ -3,8 +3,6 @@
 
 
 # Hardening environment
-https://administratosphere.wordpress.com/2011/05/20/logging-every-shell-command/
-http://unix.stackexchange.com/questions/111460/log-every-command-typed-in-any-shell-output-from-logger-function-to-syslog-ng
 ```
 #Change attributes to append only
   chattr +a .sh_history
